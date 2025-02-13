@@ -1,1 +1,2 @@
 #Praat Script for Extracting Dynamic Vowel Formants (Version 1.1)
+This Praat script automates the extraction of dynamic vowel formant values (F1, F2, F3) at multiple time points (0%–10%) within the vowel duration. It also computes the mean F1, F2, F3, fundamental frequency (f0) and intensity (I) for each annotated each annotated vowel. The script processes all .wav files in a specified directory and their corresponding .TextGrid files containing vowel annotations. The script will save the extracted data in a .csv file in a desired location for further analysis.

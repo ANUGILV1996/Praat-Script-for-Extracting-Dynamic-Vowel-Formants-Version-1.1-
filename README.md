@@ -8,6 +8,7 @@ I. From Tier 1 (Vowel Tier):
 3. Mean F1, F2, and F3 across the vowel duration.
 4. Mean fundamental frequency (f0).
 5. Mean intensity (I).
+
 II. From Tiers 2 and 3 (Syllable and Word Tiers):
 1. Duration and label of the corresponding syllable.
 2. Duration and label of the corresponding word.

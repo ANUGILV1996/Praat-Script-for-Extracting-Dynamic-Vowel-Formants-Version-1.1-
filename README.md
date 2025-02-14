@@ -10,14 +10,12 @@ I. Required File Setup:
 II. Extracted Features by Annotation Tiers:
 
 1. Phone Tier (Tier 1):
-   
-a. Dynamic vowel formant values (F1, F2, F3) extracted at multiple time points (0%–100% of vowel duration).
-b. Vowel duration and label.
-c. Mean values of F1, F2, and F3 across the vowel duration.
-d. Mean fundamental frequency (F0).
-e. Mean intensity (I).
+   a. Dynamic vowel formant values (F1, F2, F3) extracted at multiple time points (0%–100% of vowel duration).
+   b. Vowel duration and label.
+   c. Mean values of F1, F2, and F3 across the vowel duration.
+   d. Mean fundamental frequency (F0).
+   e. Mean intensity (I).
 
-3. Syllable and Word Tiers (Tiers 2 and 3):
-   
-a. Duration and label of the corresponding syllable.
-b. Duration and label of the corresponding word.
+2. Syllable and Word Tiers (Tiers 2 and 3):
+   a. Duration and label of the corresponding syllable.
+   b. Duration and label of the corresponding word.

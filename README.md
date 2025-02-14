@@ -8,7 +8,7 @@ I. Required File Setup:
    
 2. It is recommended that the files be organized by speaker gender (e.g., separate folders for male and female speakers).
    
-3. The annotation structure should ideally contain three tiers, but the script can function with fewer tiers if necessary.
+3. The annotation structure should ideally contain three tiers: Phone (Tier 1), Syllable (Tier 2), and Word (Tier 3). However, the script can function with fewer tiers by altering the script.
    
 II. Extracted Features by Annotation Tiers:
 

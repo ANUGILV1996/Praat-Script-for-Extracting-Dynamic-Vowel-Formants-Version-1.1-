@@ -4,7 +4,7 @@ This Praat script automates the extraction of various acoustic parameters from a
 
 I. Required File Setup:
 
-1. Ensure each TextGrid file has a corresponding WAV file in the same directory.
+1. Ensure each WAV file has a corresponding TextGrid file in the same directory.
    
 2. It is recommended that the files be organized by speaker gender (e.g., separate folders for male and female speakers).
    

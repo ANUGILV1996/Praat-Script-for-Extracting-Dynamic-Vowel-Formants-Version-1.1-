@@ -30,9 +30,9 @@ II. Extracted Features by Annotation Tiers:
    
    b. Duration and label of the corresponding word.
 
+Figure 01: Ideal Tier Structure for the Script.
 ![Ideal Tier](https://github.com/user-attachments/assets/b03ec443-ddbd-44ae-a651-479d08960470)
 
-            Figure 01: Ideal Tier Structure for the Script
 
 
    

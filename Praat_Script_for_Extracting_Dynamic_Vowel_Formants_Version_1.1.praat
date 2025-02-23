@@ -45,8 +45,7 @@ form Formant Analysis: Basic Settings
    
     comment ---- Who is the analyser? ----
     text Analysed_by AV
-    
-       
+           
 endform
 
 if gender$ = "Male"

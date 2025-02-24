@@ -253,8 +253,8 @@ for i from 1 to numberOfFiles
         selectObject: formantObject
 
         f1_mean = Get mean... 1 phoneStartTime phoneEndTime Hertz
-        f2_mean = Get mean... 2 0 0 Hertz
-        f3_mean = Get mean... 3 0 0 Hertz
+        f2_mean = Get mean... 2 phoneStartTime phoneEndTime Hertz
+        f3_mean = Get mean... 3 phoneStartTime phoneEndTime Hertz
 
         # Get mean pitch
         selectObject: soundFile

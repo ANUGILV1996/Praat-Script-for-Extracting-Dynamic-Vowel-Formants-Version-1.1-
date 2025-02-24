@@ -1,12 +1,12 @@
-######################################################################################################
-# Script name : Praat Script for Extracting Dynamic Vowel Formants.                                  #
-# Extracts    : F1, F2, and F3 at multiple time points (0%-10%), mean F1-F3, mean f0, mean intensity #
-# Author      : Anugil Velayudhan                                                                    #
-# affiliation : University of York, United Kingdom.                                                  #
-# Version     : 1.1                                                                                  #
-# License     : MIT License                                                                          #
-# Copy right  : Copyright (c) 2025-2026 Anugil Velayudhan                                            #
-######################################################################################################
+###############################################################################################################
+# Script name : Praat Script for Extracting Dynamic Vowel Formants.                                           #
+# Extracts    : F1, F2, and F3 at 10 Equidistant Time Points (0% - 100%), mean F1-F3, mean f0, mean intensity #
+# Author      : Anugil Velayudhan                                                                             #
+# affiliation : University of York, United Kingdom.                                                           #
+# Version     : 1.1                                                                                           #
+# License     : MIT License                                                                                   #
+# Copy right  : Copyright (c) 2025-2026 Anugil Velayudhan                                                     #
+###############################################################################################################
 
 ############################## BASIC SETTINGS ##############################                                                                           
 

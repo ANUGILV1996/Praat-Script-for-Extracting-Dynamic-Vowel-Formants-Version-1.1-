@@ -123,7 +123,7 @@ soundDictionary$ = chooseDirectory$ ("Select the folder where your dictionary fi
 outputFolderPath$ = chooseDirectory$ ("Select the folder where you want to save the results")
 outputFileName$ = "vowel_Formants.csv"
 outputPath$ = outputFolderPath$ + "\" + outputFileName$
-writeFileLine: "'outputPath$'", "file_id,vPhoneme,v_start,v_end,v_dur,syllable, syllable_dur,word, word_dur,preceedingC,followingC,F1_0,F1_10,F1_20,F1_30,F1_40,F1_50,F1_60,F1_70,F1_80,F1_90,F1_100,F2_0,F2_10,F2_20,F2_30,F2_40,F2_50,F2_60,F2_70,F2_80,F2_90,F2_100,F3_0,F3_10,F3_20,F3_30,F3_40,F3_50,F3_60,F3_70,F3_80,F3_90,F3_100,F1_mean,F2_mean,F3_mean,F0_mean,I_mean,Analyser"
+writeFileLine: "'outputPath$'", "file_Id,v_Phoneme,v_Start,v_End,v_dur,syllable,syllable_Dur,word,word_Dur,pre_C,follow_C,F1_0,F1_10,F1_20,F1_30,F1_40,F1_50,F1_60,F1_70,F1_80,F1_90,F1_100,F2_0,F2_10,F2_20,F2_30,F2_40,F2_50,F2_60,F2_70,F2_80,F2_90,F2_100,F3_0,F3_10,F3_20,F3_30,F3_40,F3_50,F3_60,F3_70,F3_80,F3_90,F3_100,F1_mean,F2_mean,F3_mean,F0_mean,I_mean,Analyser"
 
 # Ensure that the output directory exists.
 createFolder: outputFolderPath$
